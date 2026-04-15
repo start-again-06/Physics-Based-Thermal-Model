@@ -110,6 +110,7 @@ This setup stabilizes training while preserving physical interpretability.
 5. Compute constrained loss
 6. Update neural and physical parameters jointly
 
+![PINN Dashboard](https://github.com/start-again-06/Physics-Based-Thermal-Model/blob/9be3d02cebbfc82744ceeccfffd876ca47430cb9/results/Complete_Dashboard_Image_PINN.png)
 ---
 
 ## Data Handling
